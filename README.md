@@ -13,4 +13,4 @@ I'm an aspiring **Backend Web Developer** who enjoys building backend web stuff.
 
 ## 📫 How to reach me
 - Email: johnlloydcabiling14@gmail.com
-- LinkedIn: https://ph.linkedin.com/in/john-lloyd-cabiling-086b662b6
+- LinkedIn: www.linkedin.com/in/johncabi-in
