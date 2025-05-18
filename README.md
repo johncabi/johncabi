@@ -11,6 +11,6 @@ I'm an aspiring **Backend Web Developer** who enjoys building backend web stuff.
 - **Languages**: Python
 - **Frameworks/Tools**: Flask, Git
 
-## 📫 How to reach me
+## 📫 Contact
 - Email: johnlloydcabiling14@gmail.com
 - LinkedIn: www.linkedin.com/in/johncabi-in
