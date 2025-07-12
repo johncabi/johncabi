@@ -4,6 +4,7 @@ Welcome to my Github profile!
 
 I'm an aspiring **Backend Web Developer** who enjoys building backend web stuff. I'm always learning and exploring new technologies.
 
+<hr></hr>
 ## 🚀 What I'm working on
 ⚠️ Under construction
 
