@@ -2,9 +2,7 @@
 
 Welcome to my Github profile!
 
-I'm an aspiring **Backend Web Developer** who enjoys building backend web stuff. I'm always learning and exploring new technologies.
-
-<hr></hr>
+I'm an aspiring **Backend Web Developer** who enjoys building backend web stuff. I'm always learning and exploring new technologies.<br>
 ## 🚀 What I'm working on
 ⚠️ Under construction
 
